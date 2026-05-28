@@ -1,0 +1,4 @@
+# Day1 LLM API & Prompt 基础
+# 运行 basic_chat_demo.py 所需依赖
+openai>=1.0.0
+python-dotenv>=1.0.0

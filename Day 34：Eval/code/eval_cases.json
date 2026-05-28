@@ -1,0 +1,27 @@
+[
+  {
+    "id": "case_001",
+    "input": "帮我查每月销售额",
+    "expected": {
+      "must_include": [
+        "SELECT",
+        "revenue"
+      ],
+      "must_group_by": [
+        "month"
+      ],
+      "must_not_include": [
+        "DELETE",
+        "UPDATE",
+        "DROP"
+      ],
+      "requires_confirmation": false
+    },
+    "checks": [
+      "sql_safety",
+      "field_correctness",
+      "tool_usage",
+      "context_grounding"
+    ]
+  }
+]

@@ -72,6 +72,12 @@ StepExecutor 逐步执行 steps，并记录每一步状态。
 ## 今日作业
 请按上方“原始计划内容”中的作业、要求和产出路径完成今天任务。完成后，把提交说明写到本文件夹的 `assignment.md`，方便 Codex 批改。
 
+## 本章代码
+- [code/README.md](code/README.md)
+
+## 本章笔记
+- [notes/day19_planner_executor.md](notes/day19_planner_executor.md)
+
 ## 完成标准
 - 完成原计划中列出的代码、文档或项目产出。
 - 能用自己的话解释今天的核心概念。
