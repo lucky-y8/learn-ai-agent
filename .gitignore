@@ -1,0 +1,45 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and local runtime files
+*.log
+logs/
+tmp/
+temp/
+
+# Build / package output
+build/
+dist/
+*.egg-info/
+
+# Node, for later frontend demos
+node_modules/
+.next/
+coverage/
