@@ -1,6 +1,6 @@
-# AI Agent 42 天学习目录
+﻿# AI Agent 42 天学习目录
 
-每天一个文件夹，命名格式与现有文件夹保持一致：`Day N：标题`。
+每天一个文件夹，命名格式与现有文件夹保持一致：`Day NN：标题`。
 
 每个文件夹包含：
 - `README.md`：当天学习规划、原始任务、产出和验收标准。
@@ -25,15 +25,15 @@
 - Day 29-35：Bonus Unit 2 Observability and Evaluation
 - Day 36-42：Unit 4 Final Project
 
-- [Day 1：LLM API 和 Prompt 基础](Day 1：LLM API 和 Prompt 基础/README.md) | [作业](Day 1：LLM API 和 Prompt 基础/assignment.md)
-- [Day 2：Structured Output](Day 2：Structured Output/README.md) | [作业](Day 2：Structured Output/assignment.md)
-- [Day 3：Tool Calling](Day 3：Tool Calling/README.md) | [作业](Day 3：Tool Calling/assignment.md)
-- [Day 4：手搓 Tool Registry](Day 4：手搓 Tool Registry/README.md) | [作业](Day 4：手搓 Tool Registry/assignment.md)
-- [Day 5：ReAct Loop](Day 5：ReAct Loop/README.md) | [作业](Day 5：ReAct Loop/assignment.md)
-- [Day 6：周项目 1](Day 6：周项目 1/README.md) | [作业](Day 6：周项目 1/assignment.md)
-- [Day 7：复盘](Day 7：复盘/README.md) | [作业](Day 7：复盘/assignment.md)
-- [Day 8：Embedding 和向量检索](Day 8：Embedding 和向量检索/README.md) | [作业](Day 8：Embedding 和向量检索/assignment.md)
-- [Day 9：Chunking](Day 9：Chunking/README.md) | [作业](Day 9：Chunking/assignment.md)
+- [Day 01：LLM API 和 Prompt 基础](Day 01：LLM API 和 Prompt 基础/README.md) | [作业](Day 01：LLM API 和 Prompt 基础/assignment.md)
+- [Day 02：Structured Output](Day 02：Structured Output/README.md) | [作业](Day 02：Structured Output/assignment.md)
+- [Day 03：Tool Calling](Day 03：Tool Calling/README.md) | [作业](Day 03：Tool Calling/assignment.md)
+- [Day 04：手搓 Tool Registry](Day 04：手搓 Tool Registry/README.md) | [作业](Day 04：手搓 Tool Registry/assignment.md)
+- [Day 05：ReAct Loop](Day 05：ReAct Loop/README.md) | [作业](Day 05：ReAct Loop/assignment.md)
+- [Day 06：周项目 1](Day 06：周项目 1/README.md) | [作业](Day 06：周项目 1/assignment.md)
+- [Day 07：复盘](Day 07：复盘/README.md) | [作业](Day 07：复盘/assignment.md)
+- [Day 08：Embedding 和向量检索](Day 08：Embedding 和向量检索/README.md) | [作业](Day 08：Embedding 和向量检索/assignment.md)
+- [Day 09：Chunking](Day 09：Chunking/README.md) | [作业](Day 09：Chunking/assignment.md)
 - [Day 10：Simple RAG Pipeline](Day 10：Simple RAG Pipeline/README.md) | [作业](Day 10：Simple RAG Pipeline/assignment.md)
 - [Day 11：BI Metadata RAG](Day 11：BI Metadata RAG/README.md) | [作业](Day 11：BI Metadata RAG/assignment.md)
 - [Day 12：RAG + Tool Router](Day 12：RAG + Tool Router/README.md) | [作业](Day 12：RAG + Tool Router/assignment.md)
@@ -67,3 +67,4 @@
 - [Day 40：用户确认](Day 40：用户确认/README.md) | [作业](Day 40：用户确认/assignment.md)
 - [Day 41：文档和演示](Day 41：文档和演示/README.md) | [作业](Day 41：文档和演示/assignment.md)
 - [Day 42：总复盘](Day 42：总复盘/README.md) | [作业](Day 42：总复盘/assignment.md)
+
